@@ -16,10 +16,10 @@ const orbitron = Orbitron({
 
 export const metadata: Metadata = {
    title: {
-      template: "%s - Liberty Auto SLC",
-      default: "Liberty Auto SLC - Small neighborhood repair shop with the customer in mind",
+      template: "%s - Keith's Automotive",
+      default: "Keith's Automotive - Complete Car Care Since 1958 | Salt Lake City Auto Repair",
    },
-   description: "Small neighborhood repair shop with the customer in mind. Auto repair isn't cheap but it doesn't have to break the bank. Liberty Auto Repair in Salt Lake City.",
+   description: "ASE Certified Master Technicians providing complete car care since 1958. Fast emissions testing, engine repairs, brakes & diagnostics in Salt Lake City, UT.",
 };
 
 export default function RootLayout({

@@ -33,10 +33,9 @@ const HeroSection = () => {
                }}
                className="text-center text-4xl font-black sm:text-[50px] sm:leading-[50px] md:text-[70px] md:leading-[70px] lg:text-[90px] lg:leading-[90px] xl:text-[100px] xl:leading-[100px]"
             >
-               <span>CRAFTING</span>
+               <span>COMPLETE</span>
                <br />
-               <span className="text-primary">CONFI</span>
-               <span className="text-tertiary">DENCE</span> IN
+               <span className="text-primary">CAR</span> <span className="text-tertiary">CARE</span>
             </MotionH1>
             <div className="flex items-center gap-x-2 md:gap-x-4">
                <MotionP
@@ -46,8 +45,8 @@ const HeroSection = () => {
                   }}
                   className="mt-2.5 grid justify-end text-xs font-extrabold leading-[14px] sm:text-sm md:mt-5 md:text-xl md:leading-5"
                >
-                  <span className="text-end">EXPERIENCE THE</span>
-                  <span className="text-end">DIFFERENCE</span>
+                  <span className="text-end">ASE CERTIFIED</span>
+                  <span className="text-end">TECHNICIANS</span>
                </MotionP>
                <MotionH1
                   variants={{
@@ -56,7 +55,7 @@ const HeroSection = () => {
                   }}
                   className="text-center text-[50px] font-bold leading-[60px] md:text-[70px] md:font-[900] md:leading-[80px] lg:text-[80px] lg:leading-[90px] xl:text-[100px] xl:leading-[100px]"
                >
-                  REPAIR
+                  SINCE 1958
                </MotionH1>
             </div>
 

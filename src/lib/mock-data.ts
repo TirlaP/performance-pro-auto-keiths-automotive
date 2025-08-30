@@ -11,25 +11,25 @@ import {
 const service1_data = [
    {
       id: 1,
-      title: "Oil\nChanges",
+      title: "Safety &\nEmissions Testing",
       bgImage: "bg-[url('/images/image-44.png')]",
-      Icon: OilIcon,
+      Icon: MeterIcon,
    },
    {
       id: 2,
-      title: "Brake\nService",
+      title: "Engine &\nTransmission Repairs",
       bgImage: "bg-[url('/images/image-45.png')]",
-      Icon: DiscBrakeIcon,
-   },
-   {
-      id: 3,
-      title: "Tune\nUps",
-      bgImage: "bg-[url('/images/image-46.png')]",
       Icon: CarEngineIcon,
    },
    {
+      id: 3,
+      title: "Brake, Suspension\n& Chassis Work",
+      bgImage: "bg-[url('/images/image-46.png')]",
+      Icon: DiscBrakeIcon,
+   },
+   {
       id: 4,
-      title: "General Auto\nRepair",
+      title: "Computerized\nDiagnostics",
       bgImage: "bg-[url('/images/image-47.png')]",
       Icon: WrenchIcon,
    },
@@ -38,26 +38,26 @@ const service1_data = [
 const features1_data = [
    {
       id: 1,
-      title: "best technician",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "65+ Years Experience",
+      desc: "Complete car care since 1958 with ASE Certified Master Technicians",
       icon: "icon-2.png",
    },
    {
       id: 2,
-      title: "full warranty",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "Free Services",
+      desc: "FREE diagnostics, FREE second opinions, FREE pre-trip safety checks",
       icon: "icon-3.png",
    },
    {
       id: 3,
-      title: "domestic repair",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "All Makes & Models",
+      desc: "Everything but body work - bumper to bumper repairs for any vehicle",
       icon: "icon-4.png",
    },
    {
       id: 4,
-      title: "client familiar",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "Fast & Convenient",
+      desc: "FAST emissions & safety testing while you wait, no appointment necessary",
       icon: "icon-5.png",
    },
 ];

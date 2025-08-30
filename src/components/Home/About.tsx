@@ -51,7 +51,7 @@ const AboutSection = () => {
                   }}
                   className="text-center text-4xl font-black text-default md:text-5xl lg:text-start lg:text-6xl lg:leading-[50px] xl:leading-[70px]"
                >
-                  LIBERTY AUTO REPAIRS IN SALT LAKE CITY
+                  KEITH'S AUTOMOTIVE - COMPLETE CAR CARE SINCE 1958
                </MotionH2>
 
                <MotionP
@@ -72,10 +72,7 @@ const AboutSection = () => {
                   }}
                   className="text-center font-body text-base font-normal text-default-foreground md:text-lg md:leading-7 lg:text-start"
                >
-                  At Liberty Auto Repair, we&apos;re more than just a vehicle repair shop – we&apos;re a locally owned 
-                  business with deep roots in Salt Lake City. Founded by Keith, a dedicated car enthusiast 
-                  with years of experience in the automotive industry, we pride ourselves on providing high-quality 
-                  repair services at affordable prices.
+                  With over 65 years of experience serving Salt Lake City, Keith's Automotive has been providing complete car care since 1958. We are ASE Certified Master Technicians specializing in everything but body work - from bumper to bumper repairs, safety & emissions testing, to decal renewals. Our commitment to quality workmanship and honest service has made us a trusted name in the community.
                </MotionP>
 
                <MotionDiv
@@ -100,8 +97,7 @@ const AboutSection = () => {
                   }}
                >
                   <p className="text-xs font-extrabold uppercase text-default-foreground sm:text-sm md:text-base xl:text-lg">
-                     &quot;Auto repair isn&apos;t cheap but it doesn&apos;t have to break the bank, 
-                     that&apos;s why we&apos;re here to help.&quot;
+                     &quot;We Fix things GOOD, FAST & CHEAP. You may Choose any two: GOOD & FAST won&apos;t be CHEAP. CHEAP & GOOD won&apos;t be FAST. FAST & CHEAP won&apos;t be GOOD.&quot;
                   </p>
                   <SpannerIcon className="absolute right-20 top-1/2 -translate-y-2/4 fill-white opacity-10" />
                </MotionDiv>
@@ -156,10 +152,10 @@ const Founder = ({ className }: FounderProps) => {
       >
          <div className="leading-normal">
             <h4 className="text-lg font-extrabold uppercase leading-7 text-default">
-               Keith
+               Keith's Team
             </h4>
             <p className="font-body text-lg font-normal text-default-foreground">
-               Owner & Lead Mechanic
+               ASE Certified Master Technicians
             </p>
          </div>
          <div>
