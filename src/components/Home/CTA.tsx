@@ -59,7 +59,7 @@ const CtaSection = () => {
                </Button>
 
                <h4 className="text-xl font-extrabold uppercase text-default md:text-3xl">
-                  +1 801-941-1604
+                  +1 (801) 485-6092
                </h4>
             </MotionDiv>
          </div>

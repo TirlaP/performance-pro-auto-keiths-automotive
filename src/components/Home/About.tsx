@@ -1,15 +1,15 @@
-import Link from "next/link";
 import Image from "next/image";
+import Link from "next/link";
 
-import { RightArrowIcon, SpannerIcon } from "@/components/ui/icons";
-import { buttonVariants } from "@/components/ui/button";
-import { AspectRatio } from "@/components/ui/aspect-ratio";
 import {
-   MotionSection,
    MotionDiv,
    MotionH2,
    MotionP,
+   MotionSection,
 } from "@/components/animations/motion";
+import { AspectRatio } from "@/components/ui/aspect-ratio";
+import { buttonVariants } from "@/components/ui/button";
+import { RightArrowIcon, SpannerIcon } from "@/components/ui/icons";
 
 export interface FounderProps extends React.HTMLAttributes<HTMLDivElement> {}
 
@@ -73,7 +73,7 @@ const AboutSection = () => {
                   className="text-center font-body text-base font-normal text-default-foreground md:text-lg md:leading-7 lg:text-start"
                >
                   At Liberty Auto Repair, we&apos;re more than just a vehicle repair shop – we&apos;re a locally owned 
-                  business with deep roots in Salt Lake City. Founded by Will Neuman, a dedicated car enthusiast 
+                  business with deep roots in Salt Lake City. Founded by Keith, a dedicated car enthusiast 
                   with years of experience in the automotive industry, we pride ourselves on providing high-quality 
                   repair services at affordable prices.
                </MotionP>
@@ -156,7 +156,7 @@ const Founder = ({ className }: FounderProps) => {
       >
          <div className="leading-normal">
             <h4 className="text-lg font-extrabold uppercase leading-7 text-default">
-               Will Neuman
+               Keith
             </h4>
             <p className="font-body text-lg font-normal text-default-foreground">
                Owner & Lead Mechanic

@@ -38,7 +38,7 @@ const Footer = () => {
                               Email us
                            </h5>
                            <p className="text-lg font-normal leading-7 text-default-foreground">
-                              contact@libertyautoslc.com
+                              tech@performanceproauto.com
                            </p>
                         </div>
                      </li>
@@ -52,7 +52,7 @@ const Footer = () => {
                               phone no
                            </h5>
                            <p className="text-lg font-normal leading-7 text-default-foreground">
-                              +1 801-941-1604
+                              +1 (801) 485-6092
                            </p>
                         </div>
                      </li>
@@ -66,8 +66,8 @@ const Footer = () => {
                               location
                            </h5>
                            <p className="text-lg font-normal leading-7 text-default-foreground">
-                              528 seltice way coeur alene <br /> ID 83814,
-                              California.
+                              2220 South 300 East Salt Lake City, <br /> UT 84115,
+                              Utah.
                            </p>
                         </div>
                      </li>

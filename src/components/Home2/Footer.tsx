@@ -4,10 +4,10 @@ import { Services } from "../Footer/Services";
 import { Logo } from "../Logo";
 import { Button } from "../ui/button";
 import {
-   EmailInboxIcon,
-   MapsIcon,
-   PhoneCallIcon,
-   RightArrow2Icon,
+    EmailInboxIcon,
+    MapsIcon,
+    PhoneCallIcon,
+    RightArrow2Icon,
 } from "../ui/icons";
 import { Input } from "../ui/input";
 import { SocialLogo2 } from "./SocialLogo";
@@ -85,7 +85,7 @@ const Footer = () => {
                               phone no
                            </h5>
                            <p className="text-lg font-normal leading-7 text-default-foreground">
-                              +1 801-941-1604
+                              +1 (801) 485-6092
                            </p>
                         </div>
                      </li>
